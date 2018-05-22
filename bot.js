@@ -31,7 +31,7 @@ client.user.setGame(`Flix-Host`,"http://twitch.tv/clo_wiin")
 
 
 
-client.login('NDQ3ODg2Mzg3NTgxMjg4NDQ4.DeOGbw.AvfLA4pl7fddAyh7g53UOxaL63Y');
+client.login('MzE1NTUxMjM5ODA5MTM4Njg4.DeNb1Q._k30MVvSG9evpbivkkeiEm8dkq4');
 
 
 
